@@ -12,7 +12,7 @@ Conventional RRT path planner optimized to function in URe10 configuration space
 <p align="center">
   <img src="Assets/rrt_demo.gif">
 </p>
----
+
 
 ## Run Package
 ```
