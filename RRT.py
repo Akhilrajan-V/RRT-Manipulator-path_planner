@@ -6,9 +6,9 @@ University of Maryland, College Park
 """
 
 from tqdm import tqdm
-from ArmConfig import *
-from FKSolver import *
-from VertexViz import *
+from utils.ArmConfig import *
+from utils.FKSolver import *
+from utils.VertexViz import *
 
 # Manipulator Starting Config
 q_init = [0, 0, 0, 0, 0, 0]
